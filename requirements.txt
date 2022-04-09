@@ -1,5 +1,5 @@
-pip install seaborn
-pip install chart-studio
-pip install pandas
-pip install plotly
-pip install streamlit
+seaborn
+chart-studio
+pandas
+plotly
+streamlit
