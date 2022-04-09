@@ -1,5 +1,5 @@
-seaborn==0.11.2
-chart-studio==1.1.0
-pandas==1.4.2
-plotly==5.7.0
-streamlit==0.48.1
+pip install seaborn
+pip install chart-studio
+pip install pandas
+pip install plotly
+pip install streamlit
